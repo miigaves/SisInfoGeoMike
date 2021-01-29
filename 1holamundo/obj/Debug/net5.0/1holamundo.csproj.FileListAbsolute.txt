@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\bin\Debug\net5.0\1holamundo.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\bin\Debug\net5.0\1holamundo.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\bin\Debug\net5.0\1holamundo.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\bin\Debug\net5.0\1holamundo.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\bin\Debug\net5.0\1holamundo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\bin\Debug\net5.0\ref\1holamundo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\bin\Debug\net5.0\1holamundo.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\obj\Debug\net5.0\1holamundo.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\obj\Debug\net5.0\1holamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\obj\Debug\net5.0\1holamundo.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\obj\Debug\net5.0\1holamundo.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\obj\Debug\net5.0\1holamundo.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\obj\Debug\net5.0\1holamundo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\obj\Debug\net5.0\ref\1holamundo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\obj\Debug\net5.0\1holamundo.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\1holamundo\obj\Debug\net5.0\1holamundo.genruntimeconfig.cache

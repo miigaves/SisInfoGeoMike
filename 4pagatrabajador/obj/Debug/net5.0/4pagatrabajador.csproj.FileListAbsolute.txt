@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\obj\Debug\net5.0\4pagatrabajador.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\obj\Debug\net5.0\4pagatrabajador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\obj\Debug\net5.0\4pagatrabajador.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\obj\Debug\net5.0\4pagatrabajador.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\obj\Debug\net5.0\4pagatrabajador.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\bin\Debug\net5.0\4pagatrabajador.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\bin\Debug\net5.0\4pagatrabajador.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\bin\Debug\net5.0\4pagatrabajador.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\bin\Debug\net5.0\4pagatrabajador.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\bin\Debug\net5.0\4pagatrabajador.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\bin\Debug\net5.0\ref\4pagatrabajador.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\bin\Debug\net5.0\4pagatrabajador.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\obj\Debug\net5.0\4pagatrabajador.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\obj\Debug\net5.0\ref\4pagatrabajador.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\obj\Debug\net5.0\4pagatrabajador.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\4pagatrabajador\obj\Debug\net5.0\4pagatrabajador.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\obj\Debug\net5.0\3areatriangulo.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\obj\Debug\net5.0\3areatriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\obj\Debug\net5.0\3areatriangulo.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\obj\Debug\net5.0\3areatriangulo.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\obj\Debug\net5.0\3areatriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\bin\Debug\net5.0\3areatriangulo.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\bin\Debug\net5.0\3areatriangulo.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\bin\Debug\net5.0\3areatriangulo.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\bin\Debug\net5.0\3areatriangulo.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\bin\Debug\net5.0\3areatriangulo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\bin\Debug\net5.0\ref\3areatriangulo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\bin\Debug\net5.0\3areatriangulo.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\obj\Debug\net5.0\3areatriangulo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\obj\Debug\net5.0\ref\3areatriangulo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\obj\Debug\net5.0\3areatriangulo.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\3areatriangulo\obj\Debug\net5.0\3areatriangulo.genruntimeconfig.cache

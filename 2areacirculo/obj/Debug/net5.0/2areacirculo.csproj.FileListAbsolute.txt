@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\obj\Debug\net5.0\2areacirculo.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\obj\Debug\net5.0\2areacirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\obj\Debug\net5.0\2areacirculo.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\obj\Debug\net5.0\2areacirculo.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\obj\Debug\net5.0\2areacirculo.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\bin\Debug\net5.0\2areacirculo.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\bin\Debug\net5.0\2areacirculo.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\bin\Debug\net5.0\2areacirculo.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\bin\Debug\net5.0\2areacirculo.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\bin\Debug\net5.0\2areacirculo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\bin\Debug\net5.0\ref\2areacirculo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\bin\Debug\net5.0\2areacirculo.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\obj\Debug\net5.0\2areacirculo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\obj\Debug\net5.0\ref\2areacirculo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\obj\Debug\net5.0\2areacirculo.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\2areacirculo\obj\Debug\net5.0\2areacirculo.genruntimeconfig.cache
