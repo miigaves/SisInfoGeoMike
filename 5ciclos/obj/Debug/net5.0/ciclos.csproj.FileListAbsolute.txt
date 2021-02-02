@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\obj\Debug\net5.0\ciclos.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\obj\Debug\net5.0\ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\obj\Debug\net5.0\ciclos.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\obj\Debug\net5.0\ciclos.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\obj\Debug\net5.0\ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\bin\Debug\net5.0\ciclos.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\bin\Debug\net5.0\ciclos.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\bin\Debug\net5.0\ciclos.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\bin\Debug\net5.0\ciclos.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\bin\Debug\net5.0\ciclos.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\bin\Debug\net5.0\ref\ciclos.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\bin\Debug\net5.0\ciclos.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\obj\Debug\net5.0\ciclos.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\obj\Debug\net5.0\ref\ciclos.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\obj\Debug\net5.0\ciclos.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\ciclos\obj\Debug\net5.0\ciclos.genruntimeconfig.cache
