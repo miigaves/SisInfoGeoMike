@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\obj\Debug\net5.0\7tablas.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\obj\Debug\net5.0\7tablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\obj\Debug\net5.0\7tablas.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\obj\Debug\net5.0\7tablas.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\obj\Debug\net5.0\7tablas.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\bin\Debug\net5.0\7tablas.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\bin\Debug\net5.0\7tablas.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\bin\Debug\net5.0\7tablas.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\bin\Debug\net5.0\7tablas.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\bin\Debug\net5.0\7tablas.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\bin\Debug\net5.0\ref\7tablas.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\bin\Debug\net5.0\7tablas.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\obj\Debug\net5.0\7tablas.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\obj\Debug\net5.0\ref\7tablas.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\obj\Debug\net5.0\7tablas.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\7tablas\obj\Debug\net5.0\7tablas.genruntimeconfig.cache

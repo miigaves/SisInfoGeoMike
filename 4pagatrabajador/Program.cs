@@ -29,6 +29,6 @@ namespace _4pagatrabajador
             Console.WriteLine("Paga impuestos : {0}",impuesto);
             Console.WriteLine("Paga neta : {0}",paganeta);
 
-          
+        }
     }
 }
