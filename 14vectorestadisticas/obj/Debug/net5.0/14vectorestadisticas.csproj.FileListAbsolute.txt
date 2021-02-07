@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\obj\Debug\net5.0\14vectorestadisticas.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\obj\Debug\net5.0\14vectorestadisticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\obj\Debug\net5.0\14vectorestadisticas.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\obj\Debug\net5.0\14vectorestadisticas.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\obj\Debug\net5.0\14vectorestadisticas.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\bin\Debug\net5.0\14vectorestadisticas.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\bin\Debug\net5.0\14vectorestadisticas.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\bin\Debug\net5.0\14vectorestadisticas.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\bin\Debug\net5.0\14vectorestadisticas.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\bin\Debug\net5.0\14vectorestadisticas.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\bin\Debug\net5.0\ref\14vectorestadisticas.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\bin\Debug\net5.0\14vectorestadisticas.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\obj\Debug\net5.0\14vectorestadisticas.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\obj\Debug\net5.0\ref\14vectorestadisticas.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\obj\Debug\net5.0\14vectorestadisticas.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\14vectorestadisticas\obj\Debug\net5.0\14vectorestadisticas.genruntimeconfig.cache

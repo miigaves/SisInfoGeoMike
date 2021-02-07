@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\obj\Debug\net5.0\8vectorpromedio.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\obj\Debug\net5.0\8vectorpromedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\obj\Debug\net5.0\8vectorpromedio.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\obj\Debug\net5.0\8vectorpromedio.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\obj\Debug\net5.0\8vectorpromedio.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\bin\Debug\net5.0\8vectorpromedio.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\bin\Debug\net5.0\8vectorpromedio.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\bin\Debug\net5.0\8vectorpromedio.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\bin\Debug\net5.0\8vectorpromedio.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\bin\Debug\net5.0\8vectorpromedio.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\bin\Debug\net5.0\ref\8vectorpromedio.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\bin\Debug\net5.0\8vectorpromedio.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\obj\Debug\net5.0\8vectorpromedio.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\obj\Debug\net5.0\ref\8vectorpromedio.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\obj\Debug\net5.0\8vectorpromedio.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\8vectorpromedio\obj\Debug\net5.0\8vectorpromedio.genruntimeconfig.cache

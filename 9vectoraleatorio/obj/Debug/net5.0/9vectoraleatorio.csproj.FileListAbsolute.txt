@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\bin\Debug\net5.0\9vectoraleatorio.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\bin\Debug\net5.0\9vectoraleatorio.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\bin\Debug\net5.0\9vectoraleatorio.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\bin\Debug\net5.0\9vectoraleatorio.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\bin\Debug\net5.0\9vectoraleatorio.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\bin\Debug\net5.0\ref\9vectoraleatorio.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\bin\Debug\net5.0\9vectoraleatorio.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\obj\Debug\net5.0\9vectoraleatorio.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\obj\Debug\net5.0\9vectoraleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\obj\Debug\net5.0\9vectoraleatorio.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\obj\Debug\net5.0\9vectoraleatorio.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\obj\Debug\net5.0\9vectoraleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\obj\Debug\net5.0\9vectoraleatorio.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\obj\Debug\net5.0\ref\9vectoraleatorio.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\obj\Debug\net5.0\9vectoraleatorio.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\9vectoraleatorio\obj\Debug\net5.0\9vectoraleatorio.genruntimeconfig.cache
