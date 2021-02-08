@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\bin\Debug\net5.0\13vectoresmultiplica.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\bin\Debug\net5.0\13vectoresmultiplica.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\bin\Debug\net5.0\13vectoresmultiplica.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\bin\Debug\net5.0\13vectoresmultiplica.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\bin\Debug\net5.0\13vectoresmultiplica.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\bin\Debug\net5.0\ref\13vectoresmultiplica.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\bin\Debug\net5.0\13vectoresmultiplica.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\obj\Debug\net5.0\13vectoresmultiplica.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\obj\Debug\net5.0\13vectoresmultiplica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\obj\Debug\net5.0\13vectoresmultiplica.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\obj\Debug\net5.0\13vectoresmultiplica.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\obj\Debug\net5.0\13vectoresmultiplica.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\obj\Debug\net5.0\13vectoresmultiplica.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\obj\Debug\net5.0\ref\13vectoresmultiplica.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\obj\Debug\net5.0\13vectoresmultiplica.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\13vectoresmultiplica\obj\Debug\net5.0\13vectoresmultiplica.genruntimeconfig.cache

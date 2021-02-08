@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\obj\Debug\net5.0\11vectorsumas.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\obj\Debug\net5.0\11vectorsumas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\obj\Debug\net5.0\11vectorsumas.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\obj\Debug\net5.0\11vectorsumas.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\obj\Debug\net5.0\11vectorsumas.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\bin\Debug\net5.0\11vectorsumas.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\bin\Debug\net5.0\11vectorsumas.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\bin\Debug\net5.0\11vectorsumas.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\bin\Debug\net5.0\11vectorsumas.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\bin\Debug\net5.0\11vectorsumas.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\bin\Debug\net5.0\ref\11vectorsumas.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\bin\Debug\net5.0\11vectorsumas.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\obj\Debug\net5.0\11vectorsumas.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\obj\Debug\net5.0\ref\11vectorsumas.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\obj\Debug\net5.0\11vectorsumas.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\11vectorsumas\obj\Debug\net5.0\11vectorsumas.genruntimeconfig.cache

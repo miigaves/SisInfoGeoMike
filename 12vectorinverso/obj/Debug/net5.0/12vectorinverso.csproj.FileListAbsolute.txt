@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\bin\Debug\net5.0\12vectorinverso.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\bin\Debug\net5.0\12vectorinverso.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\bin\Debug\net5.0\12vectorinverso.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\bin\Debug\net5.0\12vectorinverso.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\bin\Debug\net5.0\12vectorinverso.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\bin\Debug\net5.0\ref\12vectorinverso.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\bin\Debug\net5.0\12vectorinverso.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\obj\Debug\net5.0\12vectorinverso.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\obj\Debug\net5.0\12vectorinverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\obj\Debug\net5.0\12vectorinverso.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\obj\Debug\net5.0\12vectorinverso.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\obj\Debug\net5.0\12vectorinverso.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\obj\Debug\net5.0\12vectorinverso.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\obj\Debug\net5.0\ref\12vectorinverso.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\obj\Debug\net5.0\12vectorinverso.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\12vectorinverso\obj\Debug\net5.0\12vectorinverso.genruntimeconfig.cache
