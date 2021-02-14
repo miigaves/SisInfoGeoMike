@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\obj\Debug\net5.0\15objetos.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\obj\Debug\net5.0\15objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\obj\Debug\net5.0\15objetos.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\obj\Debug\net5.0\15objetos.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\obj\Debug\net5.0\15objetos.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\bin\Debug\net5.0\15objetos.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\bin\Debug\net5.0\15objetos.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\bin\Debug\net5.0\15objetos.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\bin\Debug\net5.0\15objetos.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\bin\Debug\net5.0\15objetos.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\bin\Debug\net5.0\ref\15objetos.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\bin\Debug\net5.0\15objetos.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\obj\Debug\net5.0\15objetos.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\obj\Debug\net5.0\ref\15objetos.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\obj\Debug\net5.0\15objetos.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\15objetos\obj\Debug\net5.0\15objetos.genruntimeconfig.cache
