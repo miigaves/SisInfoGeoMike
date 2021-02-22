@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\bin\Debug\net5.0\17.SistemaBancarioV2.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\bin\Debug\net5.0\17.SistemaBancarioV2.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\bin\Debug\net5.0\17.SistemaBancarioV2.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\bin\Debug\net5.0\17.SistemaBancarioV2.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\bin\Debug\net5.0\17.SistemaBancarioV2.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\bin\Debug\net5.0\ref\17.SistemaBancarioV2.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\bin\Debug\net5.0\17.SistemaBancarioV2.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\obj\Debug\net5.0\17.SistemaBancarioV2.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\obj\Debug\net5.0\17.SistemaBancarioV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\obj\Debug\net5.0\17.SistemaBancarioV2.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\obj\Debug\net5.0\17.SistemaBancarioV2.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\obj\Debug\net5.0\17.SistemaBancarioV2.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\obj\Debug\net5.0\17.SistemaBancarioV2.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\obj\Debug\net5.0\ref\17.SistemaBancarioV2.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\obj\Debug\net5.0\17.SistemaBancarioV2.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\17.SistemaBancarioV2\obj\Debug\net5.0\17.SistemaBancarioV2.genruntimeconfig.cache
