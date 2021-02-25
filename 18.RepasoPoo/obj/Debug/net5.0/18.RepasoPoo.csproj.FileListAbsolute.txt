@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\bin\Debug\net5.0\18.RepasoPoo.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\bin\Debug\net5.0\18.RepasoPoo.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\bin\Debug\net5.0\18.RepasoPoo.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\bin\Debug\net5.0\18.RepasoPoo.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\bin\Debug\net5.0\18.RepasoPoo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\bin\Debug\net5.0\ref\18.RepasoPoo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\bin\Debug\net5.0\18.RepasoPoo.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\obj\Debug\net5.0\18.RepasoPoo.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\obj\Debug\net5.0\18.RepasoPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\obj\Debug\net5.0\18.RepasoPoo.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\obj\Debug\net5.0\18.RepasoPoo.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\obj\Debug\net5.0\18.RepasoPoo.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\obj\Debug\net5.0\18.RepasoPoo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\obj\Debug\net5.0\ref\18.RepasoPoo.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\obj\Debug\net5.0\18.RepasoPoo.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\18.RepasoPoo\obj\Debug\net5.0\18.RepasoPoo.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "18.RepasoPoo/1.0.0": {
+        "runtime": {
+          "18.RepasoPoo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "18.RepasoPoo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
