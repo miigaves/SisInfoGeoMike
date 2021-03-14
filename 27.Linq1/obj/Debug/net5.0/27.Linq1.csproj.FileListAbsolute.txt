@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\bin\Debug\net5.0\27.Linq1.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\bin\Debug\net5.0\27.Linq1.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\bin\Debug\net5.0\27.Linq1.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\bin\Debug\net5.0\27.Linq1.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\bin\Debug\net5.0\27.Linq1.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\bin\Debug\net5.0\ref\27.Linq1.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\bin\Debug\net5.0\27.Linq1.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\obj\Debug\net5.0\27.Linq1.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\obj\Debug\net5.0\27.Linq1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\obj\Debug\net5.0\27.Linq1.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\obj\Debug\net5.0\27.Linq1.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\obj\Debug\net5.0\27.Linq1.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\obj\Debug\net5.0\27.Linq1.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\obj\Debug\net5.0\ref\27.Linq1.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\obj\Debug\net5.0\27.Linq1.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\27.Linq1\obj\Debug\net5.0\27.Linq1.genruntimeconfig.cache
