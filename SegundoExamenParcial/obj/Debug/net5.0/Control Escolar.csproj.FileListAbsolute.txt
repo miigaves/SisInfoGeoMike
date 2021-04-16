@@ -1,0 +1,66 @@
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.csprojAssemblyReference.cache
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.AssemblyInfoInputs.cache
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.AssemblyInfo.cs
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.csproj.CoreCompileInputs.cache
+C:\Sistemasinfo\Parcial\Control Escolar\bin\Debug\net5.0\Control Escolar.exe
+C:\Sistemasinfo\Parcial\Control Escolar\bin\Debug\net5.0\Control Escolar.deps.json
+C:\Sistemasinfo\Parcial\Control Escolar\bin\Debug\net5.0\Control Escolar.runtimeconfig.json
+C:\Sistemasinfo\Parcial\Control Escolar\bin\Debug\net5.0\Control Escolar.runtimeconfig.dev.json
+C:\Sistemasinfo\Parcial\Control Escolar\bin\Debug\net5.0\Control Escolar.dll
+C:\Sistemasinfo\Parcial\Control Escolar\bin\Debug\net5.0\ref\Control Escolar.dll
+C:\Sistemasinfo\Parcial\Control Escolar\bin\Debug\net5.0\Control Escolar.pdb
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.dll
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\ref\Control Escolar.dll
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.pdb
+C:\Sistemasinfo\Parcial\Control Escolar\obj\Debug\net5.0\Control Escolar.genruntimeconfig.cache
+C:\Users\Mike\Documents\GitHub\Control Escolar\bin\Debug\net5.0\Control Escolar.exe
+C:\Users\Mike\Documents\GitHub\Control Escolar\bin\Debug\net5.0\Control Escolar.deps.json
+C:\Users\Mike\Documents\GitHub\Control Escolar\bin\Debug\net5.0\Control Escolar.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\Control Escolar\bin\Debug\net5.0\Control Escolar.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\Control Escolar\bin\Debug\net5.0\Control Escolar.dll
+C:\Users\Mike\Documents\GitHub\Control Escolar\bin\Debug\net5.0\ref\Control Escolar.dll
+C:\Users\Mike\Documents\GitHub\Control Escolar\bin\Debug\net5.0\Control Escolar.pdb
+C:\Users\Mike\Documents\GitHub\Control Escolar\obj\Debug\net5.0\Control Escolar.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\Control Escolar\obj\Debug\net5.0\Control Escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\Control Escolar\obj\Debug\net5.0\Control Escolar.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\Control Escolar\obj\Debug\net5.0\Control Escolar.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\Control Escolar\obj\Debug\net5.0\Control Escolar.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\Control Escolar\obj\Debug\net5.0\Control Escolar.dll
+C:\Users\Mike\Documents\GitHub\Control Escolar\obj\Debug\net5.0\ref\Control Escolar.dll
+C:\Users\Mike\Documents\GitHub\Control Escolar\obj\Debug\net5.0\Control Escolar.pdb
+C:\Users\Mike\Documents\GitHub\Control Escolar\obj\Debug\net5.0\Control Escolar.genruntimeconfig.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\obj\Debug\net5.0\Control Escolar.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\obj\Debug\net5.0\Control Escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\obj\Debug\net5.0\Control Escolar.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\obj\Debug\net5.0\Control Escolar.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\obj\Debug\net5.0\Control Escolar.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\obj\Debug\net5.0\Control Escolar.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\obj\Debug\net5.0\ref\Control Escolar.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\obj\Debug\net5.0\Control Escolar.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\bin\Debug\net5.0\Control Escolar.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\bin\Debug\net5.0\Control Escolar.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\bin\Debug\net5.0\Control Escolar.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\bin\Debug\net5.0\Control Escolar.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\bin\Debug\net5.0\Control Escolar.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\bin\Debug\net5.0\ref\Control Escolar.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\bin\Debug\net5.0\Control Escolar.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\PrimerExamenParcial\obj\Debug\net5.0\Control Escolar.genruntimeconfig.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\bin\Debug\net5.0\Control Escolar.exe
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\bin\Debug\net5.0\Control Escolar.deps.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\bin\Debug\net5.0\Control Escolar.runtimeconfig.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\bin\Debug\net5.0\Control Escolar.runtimeconfig.dev.json
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\bin\Debug\net5.0\Control Escolar.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\bin\Debug\net5.0\ref\Control Escolar.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\bin\Debug\net5.0\Control Escolar.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\obj\Debug\net5.0\Control Escolar.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\obj\Debug\net5.0\Control Escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\obj\Debug\net5.0\Control Escolar.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\obj\Debug\net5.0\Control Escolar.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\obj\Debug\net5.0\Control Escolar.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\obj\Debug\net5.0\Control Escolar.csproj.CopyComplete
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\obj\Debug\net5.0\Control Escolar.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\obj\Debug\net5.0\ref\Control Escolar.dll
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\obj\Debug\net5.0\Control Escolar.pdb
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\SegundoExamenParcial\obj\Debug\net5.0\Control Escolar.genruntimeconfig.cache
