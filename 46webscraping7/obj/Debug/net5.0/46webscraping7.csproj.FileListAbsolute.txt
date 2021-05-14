@@ -1,0 +1,5 @@
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\46webscraping7\obj\Debug\net5.0\46webscraping7.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\46webscraping7\obj\Debug\net5.0\46webscraping7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\46webscraping7\obj\Debug\net5.0\46webscraping7.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\46webscraping7\obj\Debug\net5.0\46webscraping7.AssemblyInfo.cs
+C:\Users\Mike\Documents\GitHub\SisInfoGeoMike\46webscraping7\obj\Debug\net5.0\46webscraping7.csproj.CoreCompileInputs.cache
