@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eizLgWnz+z9UxmseG7nbaAMPItI96+1+sa5yiNEtSIUrvkChCyFbenOOXHHsoTPv5ObEZp6sydFpPnbH0oMmDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mike\\Documents\\GitHub\\SisInfoGeoMike\\Parcial_3\\Parcial_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mike\\.nuget\\packages\\htmlagilitypack\\1.11.33\\htmlagilitypack.1.11.33.nupkg.sha512"
+  ],
+  "logs": []
+}
